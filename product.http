@@ -1,0 +1,2 @@
+# Lấy danh sách sản phẩm
+GET http://localhost:3000/products HTTP/1.1
